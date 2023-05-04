@@ -1,5 +1,5 @@
 import SplashScreen from "react-native-splash-screen";
-const duration = null; // In milliseconds
+const duration = 5; // In milliseconds
 
 const onDurationEnd = null; // Callback function will be called as your duration ends and splash screen disappears.
 
